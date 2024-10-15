@@ -2,10 +2,10 @@
 //var a;
 
 //exercise-2
-var a=12;
+let a=12;
 if(a>10){
     a=30;
-    var b = 10;
+    let b = 10;
     console.log(a);
     console.log(b);
 }
